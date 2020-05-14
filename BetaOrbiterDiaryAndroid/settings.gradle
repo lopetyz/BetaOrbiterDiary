@@ -1,2 +1,6 @@
 rootProject.name='BetaOrbiterDiary'
 include ':app'
+include ':hualcommon'
+include ':hualstudy'
+include ':manager'
+include ':user'
